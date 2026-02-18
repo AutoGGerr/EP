@@ -13,6 +13,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 
 String? nameUser;
+String? nameUser1;
 
 class Auth extends StatefulWidget {
   const Auth({super.key});

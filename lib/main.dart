@@ -5,7 +5,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 import './screens/hello.dart';
 import './routes/routes.dart';
 import './screens/auth.dart';
- dwe 
 
 
 void main () async{
